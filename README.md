@@ -1,5 +1,5 @@
 # ShopStockProack
-This is the manaul graded assesment of the **Trainee- Full Stack Developer** program offered by **University of Moratuwa**.
+This is the manual graded assesment of the **Trainee- Full Stack Developer** program offered by **University of Moratuwa**.
 
 Given Below is the use case.
 A retail shop needs to maintain a product stock and purchase orders through a web
